@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Commands\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebBeds.CrossCutting\WebBeds.CrossCutting.csproj" />
+    <ProjectReference Include="..\WebBeds.Domain\WebBeds.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\WebBeds.WebApiRepository.deps.json
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\WebBeds.WebApiRepository.dll
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\WebBeds.WebApiRepository.pdb
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.dll
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\WebBeds.Domain.dll
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\WebBeds.Domain.pdb
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.xml
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp2.2\WebBeds.WebApiRepository.csprojResolveAssemblyReference.cache
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp2.2\WebBeds.WebApiRepository.csproj.CoreCompileInputs.cache
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp2.2\WebBeds.WebApiRepository.AssemblyInfoInputs.cache
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp2.2\WebBeds.WebApiRepository.AssemblyInfo.cs
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp2.2\WebBeds.WebApiRepository.dll
+C:\WebBedsNetCore\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp2.2\WebBeds.WebApiRepository.pdb
