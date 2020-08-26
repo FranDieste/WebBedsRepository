@@ -1,0 +1,16 @@
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.Application.deps.json
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.Application.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.Application.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.CrossCutting.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.Domain.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.WebApiRepository.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.CrossCutting.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.Domain.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.Application\bin\Debug\netcoreapp3.1\WebBeds.WebApiRepository.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.Application\obj\Debug\netcoreapp3.1\WebBeds.Application.csprojAssemblyReference.cache
+C:\WebBedsPractica\WebBeds\WebBeds.Application\obj\Debug\netcoreapp3.1\WebBeds.Application.AssemblyInfoInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.Application\obj\Debug\netcoreapp3.1\WebBeds.Application.AssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds.Application\obj\Debug\netcoreapp3.1\WebBeds.Application.csproj.CoreCompileInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.Application\obj\Debug\netcoreapp3.1\WebBeds.Application.csproj.CopyComplete
+C:\WebBedsPractica\WebBeds\WebBeds.Application\obj\Debug\netcoreapp3.1\WebBeds.Application.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Application\obj\Debug\netcoreapp3.1\WebBeds.Application.pdb

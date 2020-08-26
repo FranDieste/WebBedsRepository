@@ -1,0 +1,9 @@
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.csprojAssemblyReference.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.AssemblyInfoInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.AssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.csproj.CoreCompileInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.RazorAssemblyInfo.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.RazorAssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.dll
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds_Basura.UI.pdb

@@ -1,0 +1,14 @@
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\bin\Debug\netcoreapp3.1\WebBeds.CrossCutting.deps.json
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\bin\Debug\netcoreapp3.1\WebBeds.CrossCutting.dll
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\bin\Debug\netcoreapp3.1\WebBeds.CrossCutting.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\bin\Debug\netcoreapp3.1\WebBeds.Domain.dll
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\bin\Debug\netcoreapp3.1\WebBeds.WebApiRepository.dll
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\bin\Debug\netcoreapp3.1\WebBeds.Domain.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\bin\Debug\netcoreapp3.1\WebBeds.WebApiRepository.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\obj\Debug\netcoreapp3.1\WebBeds.CrossCutting.csprojAssemblyReference.cache
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\obj\Debug\netcoreapp3.1\WebBeds.CrossCutting.AssemblyInfoInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\obj\Debug\netcoreapp3.1\WebBeds.CrossCutting.AssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\obj\Debug\netcoreapp3.1\WebBeds.CrossCutting.csproj.CoreCompileInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\obj\Debug\netcoreapp3.1\WebBeds.CrossCutting.csproj.CopyComplete
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\obj\Debug\netcoreapp3.1\WebBeds.CrossCutting.dll
+C:\WebBedsPractica\WebBeds\WebBeds.CrossCutting\obj\Debug\netcoreapp3.1\WebBeds.CrossCutting.pdb

@@ -1,0 +1,151 @@
+﻿@model WebBeds.UI.Models.Dto.WebBBedsDataDto
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="row" style="margin:0px; padding:0px">
+        <div id="headerId" class="row" style="border-color:red;border-style:solid;border-width:1px; text-align:center;margin:0px; padding:0px">
+            <img src="https://www.webbeds.com/wp-content/themes/webbeds/assets/images/print/logo.png" alt="WebBeds" />
+        </div>
+
+        <div id="InputDataId" class="row" style="border-color:blue;border-style:solid;border-width:1px;margin:0px; padding:0px">
+
+            @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+            {
+                <div class="row">
+                    <div class="col-md-2">
+                        @Html.Label("DestinationId:")
+                    </div>
+                    <div class="col-md-3">
+                        <input type="number" name="DestinationId" />
+                    </div>
+                    <div class="col-md-2">
+                        @Html.Label("Number of nights:")
+                    </div>
+                    <div class="col-md-3">
+                        <input type="number" name="NumNights" />
+                    </div>
+                    <div class="col-md-2">
+                        <input type="submit" id="RunItems" title="Send" />
+
+                    </div>
+                </div>
+            }
+
+        </div>
+
+        <div id="DetailId" class="row" style="margin:0px; padding:0px">
+
+
+            <div class="col-md-6" style="margin:0px; padding:0px">
+                <div class="row" style="background-color:orange;margin:0px; padding:0px">
+                    <h3>Hotels and Rates</h3>
+                </div>
+                <div id="headerDataId" class="row" style="text-align:left; background-color:gray;margin:0px; padding:0px">
+
+                    <div class="col-md-3" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0px">Id</div>
+                    <div class="col-md-4" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0"><span>Name</span></div>
+                    <div class="col-md-3" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0">GeoId</div>
+                    <div class="col-md-2" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0">Rating</div>
+
+
+                </div>
+
+                <div id="DetailInformation" class="row" style="margin:0px;padding:0px">
+
+                    @{
+                        if (Model.HotelDto != null)
+                        {
+                            foreach (var item in Model.HotelDto)
+                            {
+                                <div class="row" style="text-align:left;margin:0px;padding:0px">
+                                    <div class="col-md-3" style="border-color:black;border-width:1px;border-style:solid;text-align:left">@item.Id</div>
+                                    <div class="col-md-4" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0">@item.Name</div>
+                                    <div class="col-md-3" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0">@item.GeoId</div>
+                                    <div class="col-md-2" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0">@item.Rating</div>
+                                </div>
+
+
+                                if (@item.Rates != null && @item.Rates.Count() > 0)
+                                {
+                                    <div class="row" style="margin:0px;padding:0px">
+                                        <div class="col-md-offset-2 col-md-3" style="border-color:black;border-width:1px;border-style:solid;text-align:left;background-color:gray">
+                                            Rate Type
+                                        </div>
+                                        <div class="col-md-4" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0;background-color:gray">
+                                            Board Type
+                                        </div>
+                                        <div class="col-md-3" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0;background-color:gray">
+                                            Value
+                                        </div>
+                                    </div>
+                                    foreach (var chield in @item.Rates)
+                                    {
+                                        <div class="row" style="margin:0px;padding:0px">
+                                            <div class="col-md-offset-2 col-md-3" style="border-color:black;border-width:1px;border-style:solid;text-align:left;">
+                                                @chield.RateType
+                                            </div>
+                                            <div class="col-md-4" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0">
+                                                @chield.BoardType
+                                            </div>
+                                            <div class="col-md-3" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0;margin:0">
+                                                @chield.Value
+                                            </div>
+
+
+                                        </div>
+                                    }
+                                }
+                            }
+
+                        }
+                    }
+
+                </div>
+            </div>
+
+            <div class="col-md-6" style="border-color:green;border-style:solid;border-width:1px;padding:0px;margin:0px; padding:0px">
+                <div class="row" style="background-color:orange;margin:0px; padding:0px">
+                    <h3>Exceptions</h3>
+                </div>
+                <div id="exceptionheaderId" class="row" style="text-align:left; background-color:gray;margin:0px; padding:0px">
+                    <div class="col-md-12" style="border-color:black;border-width:1px;border-style:solid;text-align:left;padding:0px">Message</div>
+                </div>
+
+                @{
+                    if (@Model.Errors != null)
+                    {
+                        foreach (var item in @Model.Errors)
+                        {
+
+                            <div class="row" style="margin:0px;padding:0px">
+
+                                @item.Message
+                            </div>
+                        }
+                    }
+
+
+                }
+
+            </div>
+
+
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+

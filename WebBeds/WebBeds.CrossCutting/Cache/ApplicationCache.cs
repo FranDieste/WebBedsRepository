@@ -22,6 +22,7 @@ namespace WebBeds.CrossCutting.Cache
         {
             _cache = cache;
 
+           
         }
 
         //__________________________________________
@@ -32,6 +33,7 @@ namespace WebBeds.CrossCutting.Cache
             get
             {
                 if (applicationCache == null)
+                    //applicationCache = new ApplicationCache();
                     applicationCache = new ApplicationCache(new MemoryCache(new MemoryCacheOptions()));
 
                 return applicationCache;

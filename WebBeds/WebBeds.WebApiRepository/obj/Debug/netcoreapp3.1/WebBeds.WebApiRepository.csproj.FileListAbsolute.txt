@@ -1,0 +1,12 @@
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp3.1\WebBeds.WebApiRepository.deps.json
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp3.1\WebBeds.WebApiRepository.dll
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp3.1\WebBeds.WebApiRepository.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp3.1\WebBeds.Domain.dll
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\bin\Debug\netcoreapp3.1\WebBeds.Domain.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp3.1\WebBeds.WebApiRepository.csprojAssemblyReference.cache
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp3.1\WebBeds.WebApiRepository.AssemblyInfoInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp3.1\WebBeds.WebApiRepository.AssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp3.1\WebBeds.WebApiRepository.csproj.CoreCompileInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp3.1\WebBeds.WebApiRepository.csproj.CopyComplete
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp3.1\WebBeds.WebApiRepository.dll
+C:\WebBedsPractica\WebBeds\WebBeds.WebApiRepository\obj\Debug\netcoreapp3.1\WebBeds.WebApiRepository.pdb

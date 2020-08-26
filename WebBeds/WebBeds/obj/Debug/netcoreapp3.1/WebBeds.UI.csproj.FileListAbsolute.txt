@@ -1,0 +1,9 @@
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.AssemblyInfoInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.AssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.csproj.CoreCompileInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.RazorAssemblyInfo.cache
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.RazorAssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.dll
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.pdb
+C:\WebBedsPractica\WebBeds\WebBeds\obj\Debug\netcoreapp3.1\WebBeds.UI.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\bin\Debug\netcoreapp3.1\WebBeds.Domain.deps.json
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\bin\Debug\netcoreapp3.1\WebBeds.Domain.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\bin\Debug\netcoreapp3.1\WebBeds.Domain.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp3.1\WebBeds.Domain.AssemblyInfoInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp3.1\WebBeds.Domain.AssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp3.1\WebBeds.Domain.csproj.CoreCompileInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp3.1\WebBeds.Domain.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp3.1\WebBeds.Domain.pdb

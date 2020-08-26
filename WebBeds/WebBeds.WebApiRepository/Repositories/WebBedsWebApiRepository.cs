@@ -1,9 +1,6 @@
-﻿using Microsoft.IdentityModel.Protocols;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
-using System.Text;
 using WebBeds.Domain.Modules.WebBedsAggregateRoot.Entities;
 using WebBeds.Domain.Modules.WebBedsAggregateRoot.Repositories;
 using WebBeds.WebApiRepository.Dto;

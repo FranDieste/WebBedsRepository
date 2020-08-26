@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Practices.Unity;
-using WebBeds.Application.Dto;
-using WebBeds.Application.Interfaces;
-using WebBeds.CrossCutting.IocRegistration;
+//using WebBeds.Application.Dto;
+//using WebBeds.Application.Interfaces;
+//using WebBeds.CrossCutting.IocRegistration;
 using WebBeds.UI.Models.Dto;
 using WebBeds.UI.Translator;
+
+
+
 
 namespace WebBeds.Controllers
 {
@@ -56,18 +59,20 @@ namespace WebBeds.Controllers
         //___________________________________________________________________________
         private WebBBedsDataDto GetWebBedsData(string destinationId,string numNights)
         {
-            var myApplication = MyUnityContainer().Resolve<IQueryHandler<WebBedsGetDataQuery, WebBedsGetDataQueryResult>>();
-            var queryDto = new WebBedsGetDataQuery();
-            queryDto.DestinationId = ConvertNumeric(destinationId);
-            queryDto.NumNights = ConvertNumeric(numNights);
+            //var myApplication = MyUnityContainer().Resolve<IQueryHandler<WebBedsGetDataQuery, WebBedsGetDataQueryResult>>();
+            //var queryDto = new WebBedsGetDataQuery();
+            //queryDto.DestinationId = ConvertNumeric(destinationId);
+            //queryDto.NumNights = ConvertNumeric(numNights);
 
-            var resultData = myApplication.ExecuteQuery(queryDto);
+            //var resultData = myApplication.ExecuteQuery(queryDto);
 
-            WebBBedsDataDto resultDto;
+            //WebBBedsDataDto resultDto;
 
-            resultDto = GetWebBedsDataHomeIndexTranslator.Instance.Translate(resultData);
+            //resultDto = GetWebBedsDataHomeIndexTranslator.Instance.Translate(resultData);
 
-            return resultDto;
+            //return resultDto;
+
+            return null;
 
         }
 
@@ -76,7 +81,9 @@ namespace WebBeds.Controllers
         //____________________________
         private UnityContainer MyUnityContainer()
         {
-            return UnityRegistration.UnityRegistrationInstance.GetUnityContainer();
+            // return UnityRegistration.UnityRegistrationInstance.GetUnityContainer();
+
+            return null;
         }
     }
 }

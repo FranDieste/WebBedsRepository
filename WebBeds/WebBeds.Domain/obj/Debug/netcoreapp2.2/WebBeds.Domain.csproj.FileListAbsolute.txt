@@ -7,3 +7,11 @@ C:\WebBedsNetCore\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.
 C:\WebBedsNetCore\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.AssemblyInfo.cs
 C:\WebBedsNetCore\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.dll
 C:\WebBedsNetCore\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\bin\Debug\netcoreapp2.2\WebBeds.Domain.deps.json
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\bin\Debug\netcoreapp2.2\WebBeds.Domain.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\bin\Debug\netcoreapp2.2\WebBeds.Domain.pdb
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.AssemblyInfoInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.AssemblyInfo.cs
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.csproj.CoreCompileInputs.cache
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.dll
+C:\WebBedsPractica\WebBeds\WebBeds.Domain\obj\Debug\netcoreapp2.2\WebBeds.Domain.pdb
